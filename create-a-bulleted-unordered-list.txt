@@ -1,3 +1,4 @@
+Remove the last two p elements and create an unordered list of three things that cats love at the bottom of the page.
 <h2>CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
